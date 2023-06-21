@@ -1,0 +1,30 @@
+#p-card{
+    display: inline;
+}
+#header-part{
+    margin-top: 1%;
+}
+#row-cart{
+    display: inline;
+}
+#my-h2{
+    font-size: 1rem;
+    display: inline;
+}
+#my-p{
+    display: inline;
+}
+.my-div{
+    margin-top: 1%;
+    background-color: rgb(218, 183, 131);
+}
+#div2{
+    display: block;
+}
+#div3{
+    display: inline;
+}
+.my-img{
+    margin-left: 3%;
+    margin-bottom: 2%;
+}
